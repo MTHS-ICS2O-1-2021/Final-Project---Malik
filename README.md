@@ -1,7 +1,5 @@
 # Final-Project---Malik
 
-[![GitHub's Super Linter](https://github.com/maliksalem1/Final-Project---Malik/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/maliksalem1/Final-Project---Malik/actions)
+[![Mr Coxall's Super Linter](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Malik/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICS2O-1-2021/Final-Project---Malik/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/maliksalem1/Final-Project---Malik)](https://repl.it/github/maliksalem1/Final-Project---Malik)
-
-This site can be found at: [https://maliksalem1.github.io/Final-Project---Malik](https://maliksalem1.github.io/Final-Project---Malik)
+This site can be found at: [https://MTHS-ICS2O-1-2021.github.io/Final-Project---Malik](https://MTHS-ICS2O-1-2021.github.io/Final-Project---Malik)
